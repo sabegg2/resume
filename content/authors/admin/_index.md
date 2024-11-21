@@ -158,7 +158,7 @@ skills:
       - name: Climbing
         description: ''
         percent: 100
-        icon: hero/arrow-trending-up
+        icon: devicon/nuxtjs
       - name: Photography
         description: ''
         percent: 80
