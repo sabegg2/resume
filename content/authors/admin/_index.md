@@ -37,16 +37,19 @@ profiles:
     url: https://github.com/sabegg2
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/stephanie-abegg
-  - icon: solid/home
-    url: https://www.stephabegg.com
+  - icon: regular/user
+    url: https://https://www.stephabegg.com/whoissteph
 #  - icon: academicons/google-scholar
 #    url: https://scholar.google.com/
 #  - icon: academicons/orcid
 #    url: https://orcid.org/
 
 interests:
-  - Data Analysis and Visualization
+  - Data Analysis
+  - Data Visualization
   - Mathematics
+  - Statistics
+  - Programming
 
 education:
   - area: Data Analytics Bootcamp
@@ -155,7 +158,7 @@ skills:
       - name: Climbing
         description: ''
         percent: 100
-        icon: person-simple-walk #mountain.png
+        icon: solid/mountain
       - name: Photography
         description: ''
         percent: 80
