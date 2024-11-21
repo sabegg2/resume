@@ -36,7 +36,9 @@ profiles:
   - icon: brands/github
     url: https://github.com/sabegg2
   - icon: brands/linkedin
-    url: www.linkedin.com/in/stephanie-abegg
+    url: https://www.linkedin.com/in/stephanie-abegg
+  - icon: solid/home
+    url: https://www.stephabegg.com
 #  - icon: academicons/google-scholar
 #    url: https://scholar.google.com/
 #  - icon: academicons/orcid
@@ -129,7 +131,7 @@ skills:
       - name: Mathematics
         description: ''
         percent: 100
-        icon: icons/function-mathematical-symbol.svg
+        icon: chart-bar #icons/function-mathematical-symbol.svg
       - name: Python, R, Matlab, HTML
         description: ''
         percent: 80
@@ -141,7 +143,7 @@ skills:
       - name: Excel
         description: ''
         percent: 40
-        icon: icons/data-spreadsheet.png
+        icon: chart-bar # icons/data-spreadsheet.png
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
