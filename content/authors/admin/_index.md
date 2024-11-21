@@ -37,8 +37,8 @@ profiles:
     url: https://github.com/sabegg2
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/stephanie-abegg
-  - icon: regular/user
-    url: https://https://www.stephabegg.com/whoissteph
+  - icon: user
+    url: https://www.stephabegg.com/whoissteph
 #  - icon: academicons/google-scholar
 #    url: https://scholar.google.com/
 #  - icon: academicons/orcid
@@ -134,7 +134,7 @@ skills:
       - name: Mathematics
         description: ''
         percent: 100
-        icon: chart-bar #icons/function-mathematical-symbol.svg
+        icon: square-root-alt
       - name: Python, R, Matlab, HTML
         description: ''
         percent: 80
@@ -158,7 +158,7 @@ skills:
       - name: Climbing
         description: ''
         percent: 100
-        icon: solid/mountain
+        icon: mountain
       - name: Photography
         description: ''
         percent: 80
