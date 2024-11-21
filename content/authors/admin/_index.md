@@ -158,7 +158,7 @@ skills:
       - name: Climbing
         description: ''
         percent: 100
-        icon: custom/mountain
+        icon: hero/calculator
       - name: Photography
         description: ''
         percent: 80
