@@ -129,7 +129,7 @@ skills:
       - name: Mathematics
         description: ''
         percent: 100
-        icon: "/assets/media/icons/function-mathematical-symbol.svg"
+        icon: "/assets/media/icons/function-mathematical-symbol.png"
       - name: Python, R, Matlab, HTML
         description: ''
         percent: 80
@@ -153,7 +153,7 @@ skills:
       - name: Climbing
         description: ''
         percent: 100
-        icon: /assets/media/icons/mountain.svg
+        icon: /assets/media/icons/mountain.png
       - name: Photography
         description: ''
         percent: 80
