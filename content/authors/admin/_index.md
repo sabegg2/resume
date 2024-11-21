@@ -106,13 +106,16 @@ work:
       - Developed comprehensive lesson plans and assessment tools to track and enhance student performance.
   - position: Research Engineer
     company_name: Janicki Industries, Inc
-    summary: 2011-2012
+    date_start: 2011-01-01
+    date_end: 2012-01-01
   - position: Junior Geotechnical Engineer in Training
     company_name: Golder Associates, Ltd
-    summary: 2007-2008
+    date_start: 2007-01-01
+    date_end: 2008-01-01
   - position: Junior Civil Engineer in Training 
     company_name: Dayton & Knight, Ltd
-    summary: 2006-2007
+    date_start: 2006-01-01
+    date_end: 2007-01-01
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
