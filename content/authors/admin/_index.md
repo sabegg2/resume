@@ -50,7 +50,7 @@ education:
   - area: Data Analytics Bootcamp
     institution: University of Denver
     # date_start: 2019
-    date_end: 12-2024
+    date_end: 12-01-2024
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
@@ -59,7 +59,7 @@ education:
   - area: Masters Applied Mathematics
     institution: University of Colorado Boulder
    #  date_start: 2019
-    date_end: 05-2022
+    date_end: 05-01-2022
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
@@ -68,23 +68,23 @@ education:
   - area: Masters Mathematics
     institution: Western Washington University
    # date_start: 2012
-    date_end: 06-2014
+    date_end: 06-01-2014
     #summary: |
     #  GPA: 3.8/4.0
   - area: Masters Civil Engineering
     institution: University of Washington
   #  date_start: 2008
-    date_end: 06-2010
+    date_end: 06-01-2010
   - area: Bachelors Engineering Geology
     institution: Stanford University
   #  date_start: 2002
-    date_end: 06-2006
+    date_end: 06-01-2006
 work:
   - position: Monitoring and Data Analyst
     company_name: LongPath Technologies
     company_url: https://www.longpathtech.com/
     company_logo: ''
-    date_start: 07-2022
+    date_start: 07-01-2022
     date_end: ""
     summary: |2-
       Responsibilities include:
@@ -97,13 +97,22 @@ work:
     company_name: Western Washington University
     company_url: ''
     company_logo: ''
-    date_start: 09-2014
-    date_end: 06-2019
+    date_start: 09-01-2014
+    date_end: 06-01-2019
     summary: |
       Responsibilities include:
       -  Instructed a range of mathematics courses, including Algebra, Precalculus, Single- and Multi-variable Calculus, and Discrete Math, over a 5-year period as full-time instructor in a university math department.
       - Facilitated student understanding of complex mathematical concepts through clear explanations and interactive learning techniques. 
       - Developed comprehensive lesson plans and assessment tools to track and enhance student performance.
+   - position: Research Engineer
+    company_name: Janicki Industries, Inc
+    summary: 2011-2012
+   - position: Junior Geotechnical Engineer in Training
+    company_name: Golder Associates, Ltd
+    summary: 2007-2008
+   - position: Junior Civil Engineer in Training 
+    company_name: Dayton & Knight, Ltd
+    summary: 2006-2007
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
