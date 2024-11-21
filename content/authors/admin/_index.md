@@ -141,7 +141,7 @@ skills:
       - name: Excel
         description: ''
         percent: 40
-        icon: "/assets/media/icons/data-spreadsheet.svg"
+        icon: "/assets/media/icons/data-spreadsheet.png"
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
