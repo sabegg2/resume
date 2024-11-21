@@ -104,13 +104,13 @@ work:
       -  Instructed a range of mathematics courses, including Algebra, Precalculus, Single- and Multi-variable Calculus, and Discrete Math, over a 5-year period as full-time instructor in a university math department.
       - Facilitated student understanding of complex mathematical concepts through clear explanations and interactive learning techniques. 
       - Developed comprehensive lesson plans and assessment tools to track and enhance student performance.
-   - position: Research Engineer
+  - position: Research Engineer
     company_name: Janicki Industries, Inc
     summary: 2011-2012
-   - position: Junior Geotechnical Engineer in Training
+  - position: Junior Geotechnical Engineer in Training
     company_name: Golder Associates, Ltd
     summary: 2007-2008
-   - position: Junior Civil Engineer in Training 
+  - position: Junior Civil Engineer in Training 
     company_name: Dayton & Knight, Ltd
     summary: 2006-2007
 
