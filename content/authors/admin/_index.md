@@ -123,7 +123,11 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Python
+      - name: Mathematics
+        description: ''
+        percent: 100
+        icon: functions
+      - name: Python, R, Matlab, HTML
         description: ''
         percent: 80
         icon: code-bracket
@@ -131,6 +135,10 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
+      - name: Excel
+        description: ''
+        percent: 40
+        icon: file-excel
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
