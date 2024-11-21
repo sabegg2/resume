@@ -134,7 +134,7 @@ skills:
       - name: Mathematics
         description: ''
         percent: 100
-        icon: assets/media/icons/data-spreadsheet.svg
+        icon: assets/media/data-spreadsheet.png
       - name: Python, R, Matlab, HTML
         description: ''
         percent: 80
@@ -146,7 +146,7 @@ skills:
       - name: Excel
         description: ''
         percent: 40
-        icon: "assets/media/icons/data-spreadsheet.svg" 
+        icon: function-mathematical-symbol.svg
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -158,11 +158,19 @@ skills:
       - name: Climbing
         description: ''
         percent: 100
-        icon: person-simple-walk
+        icon: /assets/media/data-spreadsheet.png
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+      - name: ''
+        description: ''
+        percent: 80
+        icon: ''
+      - name: ''
+        description: ''
+        percent: 80
+        icon: ''
 
 #languages:
 #  - name: English
