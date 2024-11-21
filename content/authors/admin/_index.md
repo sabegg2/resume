@@ -50,7 +50,7 @@ education:
   - area: Data Analytics Bootcamp
     institution: University of Denver
     # date_start: 2019
-    date_end: 2024
+    date_end: 12-2024
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
@@ -59,7 +59,7 @@ education:
   - area: Masters Applied Mathematics
     institution: University of Colorado Boulder
    #  date_start: 2019
-    date_end: 2022
+    date_end: 05-2022
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
@@ -68,24 +68,24 @@ education:
   - area: Masters Mathematics
     institution: Western Washington University
    # date_start: 2012
-    date_end: 2014
+    date_end: 06-2014
     #summary: |
     #  GPA: 3.8/4.0
   - area: Masters Civil Engineering
     institution: University of Washington
   #  date_start: 2008
-    date_end: 2010
+    date_end: 06-2010
   - area: Bachelors Engineering Geology
     institution: Stanford University
   #  date_start: 2002
-    date_end: 2006
+    date_end: 06-2006
 work:
   - position: Monitoring and Data Analyst
     company_name: LongPath Technologies
     company_url: https://www.longpathtech.com/
     company_logo: ''
-    date_start: 2021
-    date_end: 2023
+    date_start: 07-2022
+    date_end: ""
     summary: |2-
       Responsibilities include:
       - Analyze and ensure data quality for advanced methane gas emission continuous monitoring systems across the country, by leveraging tools such as TIBCO Spotfire, Excel, and MongoDB.
@@ -97,8 +97,8 @@ work:
     company_name: Western Washington University
     company_url: ''
     company_logo: ''
-    date_start: 2014
-    date_end: 2019
+    date_start: 09-2014
+    date_end: 06-2019
     summary: |
       Responsibilities include:
       -  Instructed a range of mathematics courses, including Algebra, Precalculus, Single- and Multi-variable Calculus, and Discrete Math, over a 5-year period as full-time instructor in a university math department.
