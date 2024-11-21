@@ -61,7 +61,7 @@ education:
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: Masters Applied Mathematics
+  - area: MS Applied Mathematics
     institution: University of Colorado Boulder
    #  date_start: 2019
     date_end: 2022-05-01
@@ -70,17 +70,17 @@ education:
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com'
-  - area: Masters Mathematics
+  - area: MS Mathematics
     institution: Western Washington University
    # date_start: 2012
     date_end: 2014-06-01
     #summary: |
     #  GPA: 3.8/4.0
-  - area: Masters Civil Engineering
+  - area: MS Civil Engineering
     institution: University of Washington
   #  date_start: 2008
     date_end: 2010-06-01
-  - area: Bachelors Engineering Geology
+  - area: BS Engineering Geology
     institution: Stanford University
   #  date_start: 2002
     date_end: 2006-06-01
