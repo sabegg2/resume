@@ -1,6 +1,6 @@
 ---
 title: Personal Projects
-date: 2010-present
+date: 2010
 external_link: https://www.stephabegg.com/projects
 tags:
   - Cartograms
