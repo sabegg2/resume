@@ -6,6 +6,7 @@ type: landing
 design:
   # Section spacing
   spacing: '5rem'
+  date_format: '2006'
 
 # Page sections
 sections:
