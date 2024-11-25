@@ -1,7 +1,7 @@
 ---
 title: Anemometer Data Comparison Dashboard
 date: 2024-10-01
-external_link: https://github.com/sabegg2/Project3
+external_link: https://sabegg2.github.io/Project3/
 tags:
   - Anemometer
   - Python
