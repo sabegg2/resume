@@ -8,6 +8,6 @@ tags:
   - Keras
 ---
 
-This is an example of one of many of my assignments in the coding bootcamp I took through the University of Denver in 2024. In this module challenge, we were tasked with creating a tool for the nonprofit foundation Alphabet Soup that can help the foundation select applicants for funding with the best chance of success in their ventures. Using machine learning and neural networks, we used the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup
+This is an example of one of many of my assignments in the coding bootcamp I took through the University of Denver in 2024. In this module challenge, we were tasked with using machine learning and neural networks to create a binary classifier that can predict whether applicants to a program will be successful.
 
 <!--more-->
