@@ -35,7 +35,7 @@ sections:
 
         - **Math&141**: Precalculus 1
 
-        Although I have now moved into industry, I still teach math in the form of tutoring. I have a handful of local (Estes Park, CO) students, and I also hold AP calculus recitations for Zinkerz Tutoring Service, a Boston-based online education company that, among other things, provides test prep courses to students in South America.
+        - **Tutoring**: Although I have now moved into industry, I still (as of 2024) teach math in the form of tutoring. I have a handful of local (Estes Park, CO) students, and I also hold AP calculus recitations for Zinkerz Tutoring Service, a Boston-based online education company that, among other things, provides test prep courses to students in South America.
 
       filters:
         folders:
