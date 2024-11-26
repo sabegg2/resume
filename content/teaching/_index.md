@@ -15,10 +15,8 @@ sections:
     content:
       title: Teaching
       text: I taught in the Math Department at Western Washington University for 6 years (2014-2019). Here is a list of courses I taught.
-
-      MATH 112 -  Algebra
+      MATH 112 - Algebra
       MATH 114 - Precalculus 1
-
       filters:
         folders:
           - teaching
