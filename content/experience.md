@@ -10,6 +10,12 @@ design:
 
 # Page sections
 sections:
+  - block: text
+    content:
+      title: Work Experience & Education
+      text: My relevant work experience, education, and skills.
+    design:
+      style: "intro-text"
   - block: resume-experience
     content:
       title: Work Experience & Education
