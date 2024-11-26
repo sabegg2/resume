@@ -10,10 +10,10 @@ design:
 
 # Page sections
 sections:
-  - block: hero
-  content:
-    title: Work Experience & Education
-    text: Placeholder description or content for testing.
+  - block: resume-experience
+    content:
+      title: Work Experience & Education
+      username: admin
   - block: resume-experience
     content:
       title: Work Experience & Education
