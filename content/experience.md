@@ -14,10 +14,6 @@ sections:
     content:
       title: Work Experience & Education
       username: admin
-  - block: resume-experience
-    content:
-      title: Work Experience & Education
-      username: admin
     design:
       # Hugo date format
       date_format: '2006'
