@@ -1,5 +1,5 @@
 ---
-title: Using Multilinear Regression of Publicly-Provided NAM Forecast Data to Develop Site-Specific Wind and Temperature Models
+title: Multilinear Regression
 date: 2024-12-01
 external_link: https://github.com/sabegg2/Final_Project/
 tags:
