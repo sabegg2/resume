@@ -10,9 +10,9 @@ design:
 
 # Page sections
 sections:
-  - block: text
-    content:
-      title: Work Experience & Education
+ # - block: text
+ #   content:
+ #     title: Work Experience & Education
   - block: resume-experience
     content:
       # title: Work Experience & Education
