@@ -19,7 +19,7 @@ sections:
           - project
     design:
       date_format: '2006'
-      view: article-grid
+      view: simple
       fill_image: false
       columns: 2
 ---
