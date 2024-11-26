@@ -13,7 +13,7 @@ sections:
   - block: text
     content:
       title: Work Experience & Education
-      text: My relevant work experience, education, and skills.
+      username: admin
   - block: resume-experience
     content:
       # title: Work Experience & Education
