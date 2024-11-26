@@ -15,8 +15,7 @@ sections:
     content:
       title: Teaching
       text: >
-        I taught in the Math Department at Western Washington University for 5 years (2014-2019). 
-        Here is a list of courses I taught:
+        I taught in the Math Department at Western Washington University and Whatcom Community College for 5 years (2014-2019). Here is a list of courses I taught:
         
         - **MATH 112**: Algebra
 
@@ -36,9 +35,9 @@ sections:
 
         - **Math&141**: Precalculus 1
 
-   #   filters:
-   #     folders:
-   #       - teaching
+      filters:
+        folders:
+          - teaching
    # design:
    #   date_format: '2006'
    #   view: article-grid
