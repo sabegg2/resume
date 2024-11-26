@@ -1,6 +1,6 @@
 ---
 title: Multilinear Regression
-date: 2024-12-01
+date: 2024-11-25
 external_link: https://github.com/sabegg2/Final_Project/
 tags:
   - Python sklearn
