@@ -10,9 +10,13 @@ design:
 
 # Page sections
 sections:
- # - block: text
- #   content:
- #     title: Work Experience & Education
+  - block: collection
+    content:
+      title: Work Experience & Education
+      text: ""
+      filters:
+        folders:
+          - teaching
   - block: resume-experience
     content:
       # title: Work Experience & Education
