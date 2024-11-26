@@ -19,7 +19,23 @@ sections:
         Here is a list of courses I taught:
         
         - **MATH 112**: Algebra
+
         - **MATH 114**: Precalculus 1
+
+        - **MATH 115**: Precalculus 2
+
+        - **MATH 118**: Accelerated Precalculus
+
+        - **MATH 124**: Calculus 1
+
+        - **MATH 125**: Calculus 2
+
+        - **MATH 224**: Multivariable Calculus 1
+
+        - **MATH 309**: Proofs in Discrete Math
+        
+        - **Math&141**: Precalculus 1
+
       filters:
         folders:
           - teaching
