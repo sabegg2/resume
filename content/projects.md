@@ -21,5 +21,5 @@ sections:
       date_format: '2006'
       view: article-grid
       fill_image: false
-      columns: 1
+      columns: 2
 ---
