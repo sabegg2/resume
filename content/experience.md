@@ -14,11 +14,9 @@ sections:
     content:
       title: Work Experience & Education
       text: My relevant work experience, education, and skills.
-    design:
-      style: "intro-text"
   - block: resume-experience
     content:
-      title: Work Experience & Education
+      # title: Work Experience & Education
       username: admin
     design:
       # Hugo date format
