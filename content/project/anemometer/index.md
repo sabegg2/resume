@@ -3,11 +3,11 @@ title: Anemometer Data Comparison Dashboard
 date: 2024-10-01
 external_link: https://sabegg2.github.io/Project3/
 tags:
-  - Anemometer
-  - Python
   - Javascript
+  - Python
+  - Anemometer
 ---
 
-Dashboard that compares 2D and 3D anemometer data.
+Javascript dashboard that compares 2D and 3D anemometer data.
 
 <!--more-->
